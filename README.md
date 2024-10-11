@@ -57,6 +57,8 @@ The weather information will be displayed on the card below the form, including:
     - Processes the data and updates the UI dynamically.
     - Handles errors by showing appropriate messages.
     - Maps weather conditions to emojis for a more intuitive user experience.
+When you open the application, the app will display something like:
+![Weather-App Example]()
 
 ## Contribution
 
