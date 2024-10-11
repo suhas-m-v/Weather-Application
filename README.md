@@ -58,7 +58,7 @@ The weather information will be displayed on the card below the form, including:
     - Handles errors by showing appropriate messages.
     - Maps weather conditions to emojis for a more intuitive user experience.
 When you open the application, the app will display something like:
-![Weather-App Example]()
+![Weather-App Example](https://github.com/suhas-m-v/Weather-Application/blob/6420fc9baf7af7504919d489e438cda9164628e5/Screenshot%202024-10-08%20140456.png)
 
 ## Contribution
 
